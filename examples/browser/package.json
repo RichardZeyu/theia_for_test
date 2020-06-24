@@ -68,6 +68,7 @@
     "coverage:clean": "rimraf .nyc_output && rimraf coverage"
   },
   "devDependencies": {
-    "@theia/cli": "^1.2.0"
+    "@theia/cli": "^1.2.0",
+    "sayhello": ".../sayhello/sayhello"
   }
 }
